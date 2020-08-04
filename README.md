@@ -1,4 +1,4 @@
-<img width="auto" src="https://unsplash.com/photos/8OyKWQgBsKQ">
+<img width="100%" src="https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80">
 
 
 # Marcelo Galdino
