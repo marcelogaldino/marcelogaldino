@@ -3,7 +3,7 @@
 ## Olá pessoal 👋
 Sou apaixonado por tecnologia, desenvolvimento web e principalmente ajudar pessoas! :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **Romagnole Produtos Elétricos**
+ :rocket:  &nbsp; Estou trabalhando na **Gazin Tech**
  <br/><br/> :purple_heart: &nbsp; Desenvolvimento web
  <br/><br/> :blush: &nbsp; Posso te ajudar com desenvolvimento de sites e apps
  <br/><br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript, ReactJS, Node.js, React Native & Typescript
