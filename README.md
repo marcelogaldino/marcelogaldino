@@ -1,15 +1,39 @@
-# Marcelo Galdino
+# 👨‍💻 Marcelo Galdino
 
-## Olá pessoal 👋
-Sou apaixonado por tecnologia, desenvolvimento web e principalmente ajudar pessoas! :computer:
+## Desenvolvedor Mobile & Full Stack
 
- :rocket:  &nbsp; Estou trabalhando na **Gazin Tech**
- <br/><br/> :purple_heart: &nbsp; Desenvolvimento web
- <br/><br/> :blush: &nbsp; Posso te ajudar com desenvolvimento de sites e apps
- <br/><br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript, ReactJS, Node.js, React Native & Typescript
- <br/><br/> 💬  &nbsp; Sobre mim: Curto tecnologias :iphone: viagens :airplane: e futebol :soccer:
- <br/><br/> :email: &nbsp; Entre em contato comigo: 
- <br/> [![Linkedin Badge](https://img.shields.io/badge/-MarceloGaldino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelogaldino/)](https://www.linkedin.com/in/marcelogaldino/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-marcelinhomgo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelinhomgo@gmail.com)](mailto:marcelinhomgo@gmail.com)
+Sou um apaixonado por tecnologia 🚀 com foco em **desenvolvimento mobile com React Native**, mas com sólida experiência também como **Full Stack Developer**. Gosto de transformar ideias em produtos reais e escaláveis.
+
+
+### 🛠️ Tecnologias que uso no dia a dia
+
+- **Mobile:** React Native (CLI & Expo), Typescript, Context API, React Navigation & Expo router, Firebase
+- **Frontend:** React.js, Next.js, Vite, HTML, CSS, TailwindCSS
+- **Backend:** Node.js, PostgreSQL, Prisma, MongoDB
+- **DevOps / Infra:** Docker, GitHub Actions, GitLab CI/CD
+
+
+### 📈 O que me motiva
+
+- Criar soluções reais que impactam pessoas
+- Colaborar com equipes multidisciplinares e compartilhar conhecimento
+
+
+### 📣 Posso te ajudar com
+
+- Desenvolvimento de aplicativos mobile
+- Criação de sistemas full stack (API + Frontend)
+- Mentoria técnica e revisão de código
+
+---
+
+### 📬 Entre em contato
+
+[![Linkedin Badge](https://img.shields.io/badge/-MarceloGaldino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelogaldino/)](https://www.linkedin.com/in/marcelogaldino/) 
+
+---
+
+<!-- ### 🌐 Portfólio
+
+🔗 [marcelogaldino.dev](https://seusite.dev) <!-- Altere para seu domínio real -->
 
